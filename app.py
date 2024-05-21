@@ -21,7 +21,6 @@ import dash_bootstrap_components as dbc
 from dash import Dash, dcc, html
 import geopandas as gpd
 
-os.chdir(r"C:\Users\GOPESH KHANNA\OneDrive - Bond University\Semester 233\DTSC13-306\Assignment 3\Final Deliverables")
 
 # Set plot parameters
 rcParams['figure.figsize'] = 12, 8
