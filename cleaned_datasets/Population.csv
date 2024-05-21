@@ -1,0 +1,1053 @@
+Country,Year,Value
+Africa,2010,1055.23
+Africa,2015,1201.11
+Africa,2021,1393.68
+Africa,2022,1426.74
+Northern Africa,2010,207.11
+Northern Africa,2015,228.36
+Northern Africa,2021,255.74
+Northern Africa,2022,259.97
+Sub-Saharan Africa,2010,848.12
+Sub-Saharan Africa,2015,972.75
+Sub-Saharan Africa,2021,1137.94
+Sub-Saharan Africa,2022,1166.77
+Eastern Africa,2010,342.74
+Eastern Africa,2015,393.35
+Eastern Africa,2021,461.14
+Eastern Africa,2022,473.00
+Middle Africa,2010,133.61
+Middle Africa,2015,157.40
+Middle Africa,2021,190.27
+Middle Africa,2022,196.08
+Southern Africa,2010,59.10
+Southern Africa,2015,63.72
+Southern Africa,2021,67.98
+Southern Africa,2022,68.60
+Western Africa,2010,312.67
+Western Africa,2015,358.28
+Western Africa,2021,418.54
+Western Africa,2022,429.08
+Americas,2010,935.82
+Americas,2015,983.54
+Americas,2021,1031.38
+Americas,2022,1037.14
+Northern America,2010,345.27
+Northern America,2015,360.46
+Northern America,2021,375.28
+Northern America,2022,376.87
+Latin America & the Caribbean,2010,590.55
+Latin America & the Caribbean,2015,623.08
+Latin America & the Caribbean,2021,656.10
+Latin America & the Caribbean,2022,660.27
+Caribbean,2010,41.40
+Caribbean,2015,42.75
+Caribbean,2021,44.18
+Caribbean,2022,44.39
+Central America,2010,156.06
+Central America,2015,167.19
+Central America,2021,177.66
+Central America,2022,179.06
+South America,2010,393.08
+South America,2015,413.13
+South America,2021,434.25
+South America,2022,436.82
+Asia,2010,4221.17
+Asia,2015,4459.44
+Asia,2021,4694.58
+Asia,2022,4722.63
+Central Asia,2010,63.62
+Central Asia,2015,68.99
+Central Asia,2022,77.04
+Eastern Asia,2010,1583.27
+Eastern Asia,2015,1631.71
+Eastern Asia,2021,1663.70
+Eastern Asia,2022,1663.20
+South-central Asia,2010,1799.54
+South-central Asia,2015,1926.33
+South-central Asia,2021,2065.35
+South-central Asia,2022,2084.59
+South-eastern Asia,2010,599.78
+South-eastern Asia,2015,636.64
+South-eastern Asia,2021,675.80
+South-eastern Asia,2022,681.13
+Southern Asia,2010,1735.92
+Southern Asia,2015,1857.34
+Southern Asia,2022,2007.55
+Western Asia,2010,238.59
+Western Asia,2015,264.76
+Western Asia,2021,289.73
+Western Asia,2022,293.72
+Europe,2010,736.28
+Europe,2015,742.11
+Europe,2021,745.17
+Europe,2022,743.56
+Eastern Europe,2010,294.71
+Eastern Europe,2015,294.19
+Eastern Europe,2021,291.46
+Eastern Europe,2022,289.63
+Northern Europe,2010,99.65
+Northern Europe,2015,102.98
+Northern Europe,2021,106.20
+Northern Europe,2022,106.55
+Southern Europe,2010,153.89
+Southern Europe,2015,153.19
+Southern Europe,2021,152.13
+Southern Europe,2022,151.76
+Western Europe,2010,188.03
+Western Europe,2015,191.74
+Western Europe,2021,195.38
+Western Europe,2022,195.62
+Oceania,2010,37.10
+Oceania,2015,40.40
+Oceania,2021,44.49
+Oceania,2022,45.04
+Australia and New Zealand,2010,26.37
+Australia and New Zealand,2015,28.41
+Australia and New Zealand,2021,31.05
+Australia and New Zealand,2022,31.36
+Melanesia,2010,9.54
+Melanesia,2015,10.77
+Melanesia,2021,12.19
+Melanesia,2022,12.41
+Micronesia,2010,0.52
+Micronesia,2015,0.52
+Micronesia,2021,0.53
+Micronesia,2022,0.54
+Polynesia,2010,0.68
+Polynesia,2015,0.70
+Polynesia,2021,0.72
+Polynesia,2022,0.72
+Afghanistan,2010,28.19
+Afghanistan,2015,33.75
+Afghanistan,2021,40.10
+Afghanistan,2022,41.13
+Albania,2010,2.91
+Albania,2015,2.88
+Albania,2021,2.85
+Albania,2022,2.84
+Algeria,2010,35.86
+Algeria,2015,39.54
+Algeria,2021,44.18
+Algeria,2022,44.90
+American Samoa,2010,0.05
+American Samoa,2015,0.05
+American Samoa,2021,0.05
+American Samoa,2022,0.04
+Andorra,2010,0.07
+Andorra,2015,0.07
+Andorra,2021,0.08
+Andorra,2022,0.08
+Angola,2010,23.36
+Angola,2015,28.13
+Angola,2021,34.50
+Angola,2022,35.59
+Anguilla,2010,0.01
+Anguilla,2015,0.01
+Anguilla,2021,0.02
+Anguilla,2022,0.02
+Antigua and Barbuda,2010,0.09
+Antigua and Barbuda,2015,0.09
+Antigua and Barbuda,2021,0.09
+Antigua and Barbuda,2022,0.09
+Argentina,2010,41.10
+Argentina,2015,43.26
+Argentina,2021,45.28
+Argentina,2022,45.51
+Armenia,2010,2.95
+Armenia,2015,2.88
+Armenia,2021,2.79
+Armenia,2022,2.78
+Aruba,2010,0.10
+Aruba,2015,0.10
+Aruba,2021,0.11
+Aruba,2022,0.11
+Australia,2010,22.02
+Australia,2015,23.82
+Australia,2021,25.92
+Australia,2022,26.18
+Austria,2010,8.36
+Austria,2015,8.64
+Austria,2021,8.92
+Austria,2022,8.94
+Azerbaijan,2010,9.24
+Azerbaijan,2015,9.86
+Azerbaijan,2021,10.31
+Azerbaijan,2022,10.36
+Bahamas,2010,0.37
+Bahamas,2015,0.39
+Bahamas,2021,0.41
+Bahamas,2022,0.41
+Bahrain,2010,1.21
+Bahrain,2015,1.36
+Bahrain,2021,1.46
+Bahrain,2022,1.47
+Bangladesh,2010,148.39
+Bangladesh,2015,157.83
+Bangladesh,2021,169.36
+Bangladesh,2022,171.19
+Barbados,2010,0.27
+Barbados,2015,0.28
+Barbados,2021,0.28
+Barbados,2022,0.28
+Belarus,2010,9.73
+Belarus,2015,9.70
+Belarus,2021,9.58
+Belarus,2022,9.54
+Belgium,2010,10.88
+Belgium,2015,11.25
+Belgium,2021,11.61
+Belgium,2022,11.66
+Belize,2010,0.32
+Belize,2015,0.36
+Belize,2021,0.40
+Belize,2022,0.41
+Benin,2010,9.45
+Benin,2015,10.93
+Benin,2021,13.00
+Benin,2022,13.35
+Bermuda,2010,0.06
+Bermuda,2015,0.06
+Bermuda,2021,0.06
+Bermuda,2022,0.06
+Bhutan,2010,0.71
+Bhutan,2015,0.74
+Bhutan,2021,0.78
+Bhutan,2022,0.78
+Bolivia (Plurin. State of),2010,10.22
+Bolivia (Plurin. State of),2015,11.09
+Bolivia (Plurin. State of),2021,12.08
+Bolivia (Plurin. State of),2022,12.22
+"Bonaire, St. Eustatius & Saba",2010,0.02
+"Bonaire, St. Eustatius & Saba",2015,0.02
+"Bonaire, St. Eustatius & Saba",2022,0.03
+Bosnia and Herzegovina,2010,3.81
+Bosnia and Herzegovina,2015,3.52
+Bosnia and Herzegovina,2021,3.27
+Bosnia and Herzegovina,2022,3.23
+Botswana,2010,2.09
+Botswana,2015,2.31
+Botswana,2021,2.59
+Botswana,2022,2.63
+Brazil,2010,196.35
+Brazil,2015,205.19
+Brazil,2021,214.33
+Brazil,2022,215.31
+British Virgin Islands,2010,0.03
+British Virgin Islands,2015,0.03
+British Virgin Islands,2021,0.03
+British Virgin Islands,2022,0.03
+Brunei Darussalam,2010,0.40
+Brunei Darussalam,2015,0.42
+Brunei Darussalam,2021,0.45
+Brunei Darussalam,2022,0.45
+Bulgaria,2010,7.59
+Bulgaria,2015,7.31
+Bulgaria,2021,6.89
+Bulgaria,2022,6.78
+Burkina Faso,2010,16.12
+Burkina Faso,2015,18.72
+Burkina Faso,2021,22.10
+Burkina Faso,2022,22.67
+Burundi,2010,9.13
+Burundi,2015,10.73
+Burundi,2021,12.55
+Burundi,2022,12.89
+Cabo Verde,2010,0.52
+Cabo Verde,2015,0.55
+Cabo Verde,2021,0.59
+Cabo Verde,2022,0.59
+Cambodia,2010,14.36
+Cambodia,2015,15.42
+Cambodia,2021,16.59
+Cambodia,2022,16.77
+Cameroon,2010,19.88
+Cameroon,2015,23.01
+Cameroon,2021,27.20
+Cameroon,2022,27.91
+Canada,2010,33.96
+Canada,2015,35.73
+Canada,2021,38.16
+Canada,2022,38.45
+Cayman Islands,2010,0.05
+Cayman Islands,2015,0.06
+Cayman Islands,2021,0.07
+Cayman Islands,2022,0.07
+Central African Republic,2010,4.66
+Central African Republic,2015,4.82
+Central African Republic,2021,5.46
+Central African Republic,2022,5.58
+Chad,2010,11.89
+Chad,2015,14.14
+Chad,2021,17.18
+Chad,2022,17.72
+Chile,2010,17.00
+Chile,2015,17.87
+Chile,2021,19.49
+Chile,2022,19.60
+China,2010,1348.19
+China,2015,1393.72
+China,2021,1425.89
+China,2022,1425.89
+"China, Hong Kong SAR",2010,7.13
+"China, Hong Kong SAR",2015,7.40
+"China, Hong Kong SAR",2021,7.49
+"China, Hong Kong SAR",2022,7.49
+"China, Macao SAR",2010,0.56
+"China, Macao SAR",2015,0.62
+"China, Macao SAR",2021,0.69
+"China, Macao SAR",2022,0.70
+Colombia,2010,44.82
+Colombia,2015,47.12
+Colombia,2021,51.52
+Colombia,2022,51.87
+Comoros,2010,0.66
+Comoros,2015,0.73
+Comoros,2021,0.82
+Comoros,2022,0.84
+Congo,2010,4.44
+Congo,2015,5.06
+Congo,2021,5.84
+Congo,2022,5.97
+Cook Islands,2010,0.02
+Cook Islands,2015,0.02
+Cook Islands,2021,0.02
+Cook Islands,2022,0.02
+Costa Rica,2010,4.62
+Costa Rica,2015,4.90
+Costa Rica,2021,5.15
+Costa Rica,2022,5.18
+Côte dIvoire,2010,21.12
+Côte dIvoire,2015,23.60
+Côte dIvoire,2021,27.48
+Côte dIvoire,2022,28.16
+Croatia,2010,4.37
+Croatia,2015,4.25
+Croatia,2021,4.06
+Croatia,2022,4.03
+Cuba,2010,11.29
+Cuba,2015,11.34
+Cuba,2021,11.26
+Cuba,2022,11.21
+Curaçao,2010,0.16
+Curaçao,2015,0.17
+Curaçao,2021,0.19
+Curaçao,2022,0.19
+Cyprus,2010,1.13
+Cyprus,2015,1.19
+Cyprus,2021,1.24
+Cyprus,2022,1.25
+Czechia,2010,10.46
+Czechia,2015,10.52
+Czechia,2021,10.51
+Czechia,2022,10.49
+Dem. People's Rep. Korea,2010,24.69
+Dem. People's Rep. Korea,2015,25.26
+Dem. People's Rep. Korea,2021,25.97
+Dem. People's Rep. Korea,2022,26.07
+Dem. Rep. of the Congo,2010,66.39
+Dem. Rep. of the Congo,2015,78.66
+Dem. Rep. of the Congo,2021,95.89
+Dem. Rep. of the Congo,2022,99.01
+Denmark,2010,5.55
+Denmark,2015,5.68
+Denmark,2021,5.85
+Denmark,2022,5.88
+Djibouti,2010,0.92
+Djibouti,2015,1.01
+Djibouti,2021,1.11
+Djibouti,2022,1.12
+Dominica,2010,0.07
+Dominica,2015,0.07
+Dominica,2021,0.07
+Dominica,2022,0.07
+Dominican Republic,2010,9.78
+Dominican Republic,2015,10.41
+Dominican Republic,2021,11.12
+Dominican Republic,2022,11.23
+Ecuador,2010,14.99
+Ecuador,2015,16.20
+Ecuador,2021,17.80
+Ecuador,2022,18.00
+Egypt,2010,87.25
+Egypt,2015,97.72
+Egypt,2021,109.26
+Egypt,2022,110.99
+El Salvador,2010,6.11
+El Salvador,2015,6.23
+El Salvador,2021,6.31
+El Salvador,2022,6.34
+Equatorial Guinea,2010,1.09
+Equatorial Guinea,2015,1.35
+Equatorial Guinea,2021,1.63
+Equatorial Guinea,2022,1.67
+Eritrea,2010,3.15
+Eritrea,2015,3.34
+Eritrea,2021,3.62
+Eritrea,2022,3.68
+Estonia,2010,1.33
+Estonia,2015,1.31
+Estonia,2021,1.33
+Estonia,2022,1.33
+Eswatini,2010,1.10
+Eswatini,2015,1.13
+Eswatini,2021,1.19
+Eswatini,2022,1.20
+Ethiopia,2010,89.24
+Ethiopia,2015,102.47
+Ethiopia,2021,120.28
+Ethiopia,2022,123.38
+Falkland Islands (Malvinas),2010,0.00
+Falkland Islands (Malvinas),2015,0.00
+Falkland Islands (Malvinas),2021,0.00
+Falkland Islands (Malvinas),2022,0.00
+Faroe Islands,2010,0.05
+Faroe Islands,2015,0.05
+Faroe Islands,2021,0.05
+Faroe Islands,2022,0.05
+Fiji,2010,0.91
+Fiji,2015,0.92
+Fiji,2021,0.92
+Fiji,2022,0.93
+Finland,2010,5.36
+Finland,2015,5.48
+Finland,2021,5.54
+Finland,2022,5.54
+France,2010,62.44
+France,2015,63.81
+France,2021,64.53
+France,2022,64.63
+French Guiana,2010,0.23
+French Guiana,2015,0.26
+French Guiana,2021,0.30
+French Guiana,2022,0.30
+French Polynesia,2010,0.28
+French Polynesia,2015,0.29
+French Polynesia,2021,0.30
+French Polynesia,2022,0.31
+Gabon,2010,1.71
+Gabon,2015,2.03
+Gabon,2021,2.34
+Gabon,2022,2.39
+Gambia,2010,1.94
+Gambia,2015,2.25
+Gambia,2021,2.64
+Gambia,2022,2.71
+Georgia,2010,3.84
+Georgia,2015,3.77
+Georgia,2021,3.76
+Georgia,2022,3.74
+Germany,2010,81.33
+Germany,2015,82.07
+Germany,2021,83.41
+Germany,2022,83.37
+Ghana,2010,25.57
+Ghana,2015,28.87
+Ghana,2021,32.83
+Ghana,2022,33.48
+Gibraltar,2010,0.03
+Gibraltar,2015,0.03
+Gibraltar,2021,0.03
+Gibraltar,2022,0.03
+Greece,2010,11.03
+Greece,2015,10.81
+Greece,2021,10.45
+Greece,2022,10.39
+Greenland,2010,0.06
+Greenland,2015,0.06
+Greenland,2021,0.06
+Greenland,2022,0.06
+Grenada,2010,0.11
+Grenada,2015,0.12
+Grenada,2021,0.12
+Grenada,2022,0.13
+Guadeloupe,2010,0.40
+Guadeloupe,2015,0.40
+Guadeloupe,2021,0.40
+Guadeloupe,2022,0.40
+Guam,2010,0.16
+Guam,2015,0.17
+Guam,2021,0.17
+Guam,2022,0.17
+Guatemala,2010,14.54
+Guatemala,2015,16.00
+Guatemala,2021,17.61
+Guatemala,2022,17.84
+Guinea,2010,10.27
+Guinea,2015,11.63
+Guinea,2021,13.53
+Guinea,2022,13.86
+Guinea-Bissau,2010,1.57
+Guinea-Bissau,2015,1.79
+Guinea-Bissau,2021,2.06
+Guinea-Bissau,2022,2.11
+Guyana,2010,0.75
+Guyana,2015,0.76
+Guyana,2021,0.80
+Guyana,2022,0.81
+Haiti,2010,9.84
+Haiti,2015,10.56
+Haiti,2021,11.45
+Haiti,2022,11.59
+Honduras,2010,8.45
+Honduras,2015,9.29
+Honduras,2021,10.28
+Honduras,2022,10.43
+Hungary,2010,9.99
+Hungary,2015,9.84
+Hungary,2021,9.71
+Hungary,2022,9.97
+Iceland,2010,0.32
+Iceland,2015,0.33
+Iceland,2021,0.37
+Iceland,2022,0.37
+India,2010,1240.61
+India,2015,1322.87
+India,2021,1407.56
+India,2022,1417.17
+Indonesia,2010,244.02
+Indonesia,2015,259.09
+Indonesia,2021,273.75
+Indonesia,2022,275.50
+Iran (Islamic Republic of),2010,75.37
+Iran (Islamic Republic of),2015,81.79
+Iran (Islamic Republic of),2021,87.92
+Iran (Islamic Republic of),2022,88.55
+Iraq,2010,31.26
+Iraq,2015,37.76
+Iraq,2021,43.53
+Iraq,2022,44.50
+Ireland,2010,4.52
+Ireland,2015,4.67
+Ireland,2021,4.99
+Ireland,2022,5.02
+Isle of Man,2010,0.08
+Isle of Man,2015,0.08
+Isle of Man,2021,0.08
+Isle of Man,2022,0.08
+Israel,2010,7.33
+Israel,2015,8.01
+Israel,2021,8.90
+Israel,2022,9.04
+Italy,2010,59.82
+Italy,2015,60.23
+Italy,2021,59.24
+Italy,2022,59.04
+Jamaica,2010,2.73
+Jamaica,2015,2.79
+Jamaica,2021,2.83
+Jamaica,2022,2.83
+Japan,2010,128.11
+Japan,2015,127.25
+Japan,2021,124.61
+Japan,2022,123.95
+Jordan,2010,6.93
+Jordan,2015,9.49
+Jordan,2021,11.15
+Jordan,2022,11.29
+Kazakhstan,2010,16.63
+Kazakhstan,2015,17.84
+Kazakhstan,2021,19.20
+Kazakhstan,2022,19.40
+Kenya,2010,41.52
+Kenya,2015,46.85
+Kenya,2021,53.01
+Kenya,2022,54.03
+Kiribati,2010,0.11
+Kiribati,2015,0.12
+Kiribati,2021,0.13
+Kiribati,2022,0.13
+Kuwait,2010,2.94
+Kuwait,2015,3.91
+Kuwait,2021,4.25
+Kuwait,2022,4.27
+Kyrgyzstan,2010,5.48
+Kyrgyzstan,2015,5.92
+Kyrgyzstan,2021,6.53
+Kyrgyzstan,2022,6.63
+Lao People's Dem. Rep.,2010,6.32
+Lao People's Dem. Rep.,2015,6.79
+Lao People's Dem. Rep.,2021,7.43
+Lao People's Dem. Rep.,2022,7.53
+Latvia,2010,2.10
+Latvia,2015,1.99
+Latvia,2021,1.87
+Latvia,2022,1.85
+Lebanon,2010,5.00
+Lebanon,2015,6.40
+Lebanon,2021,5.59
+Lebanon,2022,5.49
+Lesotho,2010,2.02
+Lesotho,2015,2.12
+Lesotho,2021,2.28
+Lesotho,2022,2.31
+Liberia,2010,4.02
+Liberia,2015,4.61
+Liberia,2021,5.19
+Liberia,2022,5.30
+Libya,2010,6.49
+Libya,2015,6.19
+Libya,2021,6.74
+Libya,2022,6.81
+Liechtenstein,2010,0.04
+Liechtenstein,2015,0.04
+Liechtenstein,2021,0.04
+Liechtenstein,2022,0.04
+Lithuania,2010,3.14
+Lithuania,2015,2.96
+Lithuania,2021,2.79
+Lithuania,2022,2.75
+Luxembourg,2010,0.51
+Luxembourg,2015,0.57
+Luxembourg,2021,0.64
+Luxembourg,2022,0.65
+Madagascar,2010,21.73
+Madagascar,2015,24.85
+Madagascar,2021,28.92
+Madagascar,2022,29.61
+Malawi,2010,14.72
+Malawi,2015,16.94
+Malawi,2021,19.89
+Malawi,2022,20.41
+Malaysia,2010,28.72
+Malaysia,2015,31.07
+Malaysia,2021,33.57
+Malaysia,2022,33.94
+Maldives,2010,0.36
+Maldives,2015,0.44
+Maldives,2021,0.52
+Maldives,2022,0.52
+Mali,2010,15.53
+Mali,2015,18.11
+Mali,2021,21.91
+Mali,2022,22.59
+Malta,2010,0.42
+Malta,2015,0.46
+Malta,2021,0.53
+Malta,2022,0.53
+Marshall Islands,2010,0.05
+Marshall Islands,2015,0.05
+Marshall Islands,2021,0.04
+Marshall Islands,2022,0.04
+Martinique,2010,0.39
+Martinique,2015,0.38
+Martinique,2021,0.37
+Martinique,2022,0.37
+Mauritania,2010,3.42
+Mauritania,2015,3.95
+Mauritania,2021,4.62
+Mauritania,2022,4.74
+Mauritius,2010,1.28
+Mauritius,2015,1.29
+Mauritius,2021,1.30
+Mauritius,2022,1.30
+Mayotte,2010,0.21
+Mayotte,2015,0.25
+Mayotte,2022,0.33
+Mexico,2010,112.53
+Mexico,2015,120.15
+Mexico,2021,126.71
+Mexico,2022,127.50
+Micronesia (Fed. States of),2010,0.11
+Micronesia (Fed. States of),2015,0.11
+Micronesia (Fed. States of),2021,0.11
+Micronesia (Fed. States of),2022,0.11
+Monaco,2010,0.03
+Monaco,2015,0.04
+Monaco,2021,0.04
+Monaco,2022,0.04
+Mongolia,2010,2.70
+Mongolia,2015,2.96
+Mongolia,2021,3.35
+Mongolia,2022,3.40
+Montenegro,2010,0.63
+Montenegro,2015,0.63
+Montenegro,2021,0.63
+Montenegro,2022,0.63
+Montserrat,2010,0.00
+Montserrat,2015,0.01
+Montserrat,2021,0.00
+Montserrat,2022,0.00
+Morocco,2010,32.46
+Morocco,2015,34.68
+Morocco,2021,37.08
+Morocco,2022,37.46
+Mozambique,2010,23.07
+Mozambique,2015,26.84
+Mozambique,2021,32.08
+Mozambique,2022,32.97
+Myanmar,2010,49.39
+Myanmar,2015,51.48
+Myanmar,2021,53.80
+Myanmar,2022,54.18
+Namibia,2010,2.10
+Namibia,2015,2.28
+Namibia,2021,2.53
+Namibia,2022,2.57
+Nauru,2010,0.01
+Nauru,2015,0.01
+Nauru,2021,0.01
+Nauru,2022,0.01
+Nepal,2010,27.16
+Nepal,2015,27.61
+Nepal,2021,30.04
+Nepal,2022,30.55
+Netherlands (Kingdom of the),2010,16.62
+Netherlands (Kingdom of the),2015,17.04
+Netherlands (Kingdom of the),2021,17.50
+Netherlands (Kingdom of the),2022,17.56
+New Caledonia,2010,0.26
+New Caledonia,2015,0.28
+New Caledonia,2021,0.29
+New Caledonia,2022,0.29
+New Zealand,2010,4.35
+New Zealand,2015,4.59
+New Zealand,2021,5.13
+New Zealand,2022,5.19
+Nicaragua,2010,5.86
+Nicaragua,2015,6.30
+Nicaragua,2021,6.85
+Nicaragua,2022,6.95
+Niger,2010,16.65
+Niger,2015,20.13
+Niger,2021,25.25
+Niger,2022,26.21
+Nigeria,2010,160.95
+Nigeria,2015,184.00
+Nigeria,2021,213.40
+Nigeria,2022,218.54
+Niue,2010,0.00
+Niue,2015,0.00
+Niue,2021,0.00
+Niue,2022,0.00
+North Macedonia,2010,2.09
+North Macedonia,2015,2.11
+North Macedonia,2021,2.10
+North Macedonia,2022,2.09
+Northern Mariana Islands,2010,0.05
+Northern Mariana Islands,2015,0.05
+Northern Mariana Islands,2021,0.05
+Northern Mariana Islands,2022,0.05
+Norway,2010,4.89
+Norway,2015,5.19
+Norway,2021,5.40
+Norway,2022,5.43
+Oman,2010,2.88
+Oman,2015,4.19
+Oman,2021,4.52
+Oman,2022,4.58
+Other non-specified areas,2010,23.08
+Other non-specified areas,2015,23.51
+Other non-specified areas,2022,23.89
+Pakistan,2010,194.45
+Pakistan,2015,210.97
+Pakistan,2021,231.40
+Pakistan,2022,235.82
+Palau,2010,0.02
+Palau,2015,0.02
+Palau,2021,0.02
+Palau,2022,0.02
+Panama,2010,3.62
+Panama,2015,3.96
+Panama,2021,4.35
+Panama,2022,4.41
+Papua New Guinea,2010,7.58
+Papua New Guinea,2015,8.68
+Papua New Guinea,2021,9.95
+Papua New Guinea,2022,10.14
+Paraguay,2010,5.77
+Paraguay,2015,6.18
+Paraguay,2021,6.70
+Paraguay,2022,6.78
+Peru,2010,29.23
+Peru,2015,30.71
+Peru,2021,33.72
+Peru,2022,34.05
+Philippines,2010,94.64
+Philippines,2015,103.03
+Philippines,2021,113.88
+Philippines,2022,115.56
+Poland,2010,38.60
+Poland,2015,38.55
+Poland,2021,38.31
+Poland,2022,39.86
+Portugal,2010,10.59
+Portugal,2015,10.37
+Portugal,2021,10.29
+Portugal,2022,10.27
+Puerto Rico,2010,3.72
+Puerto Rico,2015,3.50
+Puerto Rico,2021,3.26
+Puerto Rico,2022,3.25
+Qatar,2010,1.71
+Qatar,2015,2.41
+Qatar,2021,2.69
+Qatar,2022,2.70
+Republic of Korea,2010,48.81
+Republic of Korea,2015,50.99
+Republic of Korea,2021,51.83
+Republic of Korea,2022,51.82
+Republic of Moldova,2010,3.68
+Republic of Moldova,2015,3.28
+Republic of Moldova,2021,3.06
+Republic of Moldova,2022,3.27
+Réunion,2010,0.89
+Réunion,2015,0.92
+Réunion,2021,0.97
+Réunion,2022,0.97
+Romania,2010,20.34
+Romania,2015,19.91
+Romania,2021,19.33
+Romania,2022,19.66
+Russian Federation,2010,143.24
+Russian Federation,2015,144.67
+Russian Federation,2021,145.10
+Russian Federation,2022,144.71
+Rwanda,2010,10.31
+Rwanda,2015,11.64
+Rwanda,2021,13.46
+Rwanda,2022,13.78
+Saint Barthélemy,2010,0.01
+Saint Barthélemy,2015,0.01
+Saint Barthélemy,2022,0.01
+Saint Helena,2010,0.01
+Saint Helena,2015,0.01
+Saint Helena,2021,0.01
+Saint Helena,2022,0.01
+Saint Kitts and Nevis,2010,0.05
+Saint Kitts and Nevis,2015,0.05
+Saint Kitts and Nevis,2021,0.05
+Saint Kitts and Nevis,2022,0.05
+Saint Lucia,2010,0.17
+Saint Lucia,2015,0.18
+Saint Lucia,2021,0.18
+Saint Lucia,2022,0.18
+Saint Martin (French part),2010,0.04
+Saint Martin (French part),2015,0.04
+Saint Martin (French part),2022,0.03
+Saint Pierre and Miquelon,2010,0.01
+Saint Pierre and Miquelon,2015,0.01
+Saint Pierre and Miquelon,2021,0.01
+Saint Pierre and Miquelon,2022,0.01
+Saint Vincent & Grenadines,2010,0.11
+Saint Vincent & Grenadines,2015,0.11
+Saint Vincent & Grenadines,2021,0.10
+Saint Vincent & Grenadines,2022,0.10
+Samoa,2010,0.19
+Samoa,2015,0.20
+Samoa,2021,0.22
+Samoa,2022,0.22
+San Marino,2010,0.03
+San Marino,2015,0.03
+San Marino,2021,0.03
+San Marino,2022,0.03
+Sao Tome and Principe,2010,0.18
+Sao Tome and Principe,2015,0.20
+Sao Tome and Principe,2021,0.22
+Sao Tome and Principe,2022,0.23
+Saudi Arabia,2010,29.41
+Saudi Arabia,2015,32.75
+Saudi Arabia,2021,35.95
+Saudi Arabia,2022,36.41
+Senegal,2010,12.53
+Senegal,2015,14.36
+Senegal,2021,16.88
+Senegal,2022,17.32
+Serbia,2010,7.65
+Serbia,2015,7.52
+Serbia,2021,7.30
+Serbia,2022,7.22
+Seychelles,2010,0.09
+Seychelles,2015,0.10
+Seychelles,2021,0.11
+Seychelles,2022,0.11
+Sierra Leone,2010,6.44
+Sierra Leone,2015,7.31
+Sierra Leone,2021,8.42
+Sierra Leone,2022,8.61
+Singapore,2010,5.16
+Singapore,2015,5.65
+Singapore,2021,5.94
+Singapore,2022,5.98
+Sint Maarten (Dutch part),2010,0.03
+Sint Maarten (Dutch part),2015,0.04
+Sint Maarten (Dutch part),2021,0.04
+Sint Maarten (Dutch part),2022,0.04
+Slovakia,2010,5.40
+Slovakia,2015,5.42
+Slovakia,2021,5.45
+Slovakia,2022,5.64
+Slovenia,2010,2.06
+Slovenia,2015,2.08
+Slovenia,2021,2.12
+Slovenia,2022,2.12
+Solomon Islands,2010,0.54
+Solomon Islands,2015,0.61
+Solomon Islands,2021,0.71
+Solomon Islands,2022,0.72
+Somalia,2010,12.03
+Somalia,2015,13.76
+Somalia,2021,17.07
+Somalia,2022,17.60
+South Africa,2010,51.78
+South Africa,2015,55.88
+South Africa,2021,59.39
+South Africa,2022,59.89
+South Sudan,2010,9.71
+South Sudan,2015,11.19
+South Sudan,2022,10.91
+Spain,2010,46.57
+Spain,2015,46.43
+Spain,2021,47.49
+Spain,2022,47.56
+Sri Lanka,2010,20.67
+Sri Lanka,2015,21.34
+Sri Lanka,2021,21.77
+Sri Lanka,2022,21.83
+State of Palestine,2010,3.99
+State of Palestine,2015,4.48
+State of Palestine,2021,5.13
+State of Palestine,2022,5.25
+Sudan,2010,33.74
+Sudan,2015,38.17
+Sudan,2022,46.87
+Suriname,2010,0.55
+Suriname,2015,0.58
+Suriname,2021,0.61
+Suriname,2022,0.62
+Sweden,2010,9.38
+Sweden,2015,9.85
+Sweden,2021,10.47
+Sweden,2022,10.55
+Switzerland,2010,7.82
+Switzerland,2015,8.28
+Switzerland,2021,8.69
+Switzerland,2022,8.74
+Syrian Arab Republic,2010,22.34
+Syrian Arab Republic,2015,19.21
+Syrian Arab Republic,2021,21.32
+Syrian Arab Republic,2022,22.13
+Tajikistan,2010,7.62
+Tajikistan,2015,8.52
+Tajikistan,2021,9.75
+Tajikistan,2022,9.95
+Thailand,2010,68.27
+Thailand,2015,70.29
+Thailand,2021,71.60
+Thailand,2022,71.70
+Timor-Leste,2010,1.09
+Timor-Leste,2015,1.21
+Timor-Leste,2021,1.32
+Timor-Leste,2022,1.34
+Togo,2010,6.57
+Togo,2015,7.47
+Togo,2021,8.64
+Togo,2022,8.85
+Tokelau,2010,0.00
+Tokelau,2015,0.00
+Tokelau,2021,0.00
+Tokelau,2022,0.00
+Tonga,2010,0.11
+Tonga,2015,0.11
+Tonga,2021,0.11
+Tonga,2022,0.11
+Trinidad and Tobago,2010,1.41
+Trinidad and Tobago,2015,1.46
+Trinidad and Tobago,2021,1.53
+Trinidad and Tobago,2022,1.53
+Tunisia,2010,10.90
+Tunisia,2015,11.56
+Tunisia,2021,12.26
+Tunisia,2022,12.36
+Türkiye,2010,73.20
+Türkiye,2015,79.65
+Türkiye,2021,84.78
+Türkiye,2022,85.34
+Turkmenistan,2010,5.27
+Turkmenistan,2015,5.77
+Turkmenistan,2021,6.34
+Turkmenistan,2022,6.43
+Turks and Caicos Islands,2010,0.03
+Turks and Caicos Islands,2015,0.04
+Turks and Caicos Islands,2021,0.05
+Turks and Caicos Islands,2022,0.05
+Tuvalu,2010,0.01
+Tuvalu,2015,0.01
+Tuvalu,2021,0.01
+Tuvalu,2022,0.01
+Uganda,2010,32.34
+Uganda,2015,37.48
+Uganda,2021,45.85
+Uganda,2022,47.25
+Ukraine,2010,45.68
+Ukraine,2015,44.98
+Ukraine,2021,43.53
+Ukraine,2022,39.70
+United Arab Emirates,2010,8.48
+United Arab Emirates,2015,8.92
+United Arab Emirates,2021,9.37
+United Arab Emirates,2022,9.44
+United Kingdom,2010,62.76
+United Kingdom,2015,65.22
+United Kingdom,2021,67.28
+United Kingdom,2022,67.51
+United Rep. of Tanzania,2010,45.11
+United Rep. of Tanzania,2015,52.54
+United Rep. of Tanzania,2021,63.59
+United Rep. of Tanzania,2022,65.50
+United States of America,2010,311.18
+United States of America,2015,324.61
+United States of America,2021,337.00
+United States of America,2022,338.29
+United States Virgin Islands,2010,0.11
+United States Virgin Islands,2015,0.10
+United States Virgin Islands,2021,0.10
+United States Virgin Islands,2022,0.10
+Uruguay,2010,3.35
+Uruguay,2015,3.40
+Uruguay,2021,3.43
+Uruguay,2022,3.42
+Uzbekistan,2010,28.61
+Uzbekistan,2015,30.95
+Uzbekistan,2021,34.08
+Uzbekistan,2022,34.63
+Vanuatu,2010,0.25
+Vanuatu,2015,0.28
+Vanuatu,2021,0.32
+Vanuatu,2022,0.33
+Venezuela (Boliv. Rep. of),2010,28.72
+Venezuela (Boliv. Rep. of),2015,30.53
+Venezuela (Boliv. Rep. of),2021,28.20
+Venezuela (Boliv. Rep. of),2022,28.30
+Viet Nam,2010,87.41
+Viet Nam,2015,92.19
+Viet Nam,2021,97.47
+Viet Nam,2022,98.19
+Wallis and Futuna Islands,2010,0.01
+Wallis and Futuna Islands,2015,0.01
+Wallis and Futuna Islands,2021,0.01
+Wallis and Futuna Islands,2022,0.01
+Western Sahara,2010,0.41
+Western Sahara,2015,0.49
+Western Sahara,2021,0.57
+Western Sahara,2022,0.58
+Yemen,2010,24.74
+Yemen,2015,28.52
+Yemen,2021,32.98
+Yemen,2022,33.70
+Zambia,2010,13.79
+Zambia,2015,16.25
+Zambia,2021,19.47
+Zambia,2022,20.02
+Zimbabwe,2010,12.84
+Zimbabwe,2015,14.15
+Zimbabwe,2021,15.99
+Zimbabwe,2022,16.32
+LLDCs,2010,424.79
+LLDCs,2015,478.58
+LLDCs,2022,563.80
+LDC§,2010,843.51
+LDC§,2015,951.93
+LDC§,2022,1125.18
+SIDS,2010,65.87
+SIDS,2015,69.74
+SIDS,2022,74.36

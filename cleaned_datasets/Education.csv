@@ -1,0 +1,929 @@
+Country,Year,Value
+Northern Africa,2005,23023.00
+Northern Africa,2010,23598.00
+Northern Africa,2015,25786.00
+Northern Africa,2020,30768.00
+Sub-Saharan Africa,2005,113380.00
+Sub-Saharan Africa,2010,135894.00
+Sub-Saharan Africa,2015,156599.00
+Sub-Saharan Africa,2020,178061.00
+Northern America,2005,26759.00
+Northern America,2010,26855.00
+Northern America,2015,27094.00
+Northern America,2020,26897.00
+Latin America & the Caribbean,2005,69078.00
+Latin America & the Caribbean,2010,67230.00
+Latin America & the Caribbean,2015,64612.00
+Latin America & the Caribbean,2020,62399.00
+Central Asia,2005,4902.00
+Central Asia,2010,4335.00
+Central Asia,2015,4947.00
+Central Asia,2020,6063.00
+Eastern Asia,2005,126248.00
+Eastern Asia,2010,113462.00
+Eastern Asia,2015,107609.00
+Eastern Asia,2020,117686.00
+South-eastern Asia,2005,68253.00
+South-eastern Asia,2010,68327.00
+South-eastern Asia,2015,68713.00
+South-eastern Asia,2020,68193.00
+Southern Asia,2005,181481.00
+Southern Asia,2010,191840.00
+Southern Asia,2015,196155.00
+Southern Asia,2020,184129.00
+Western Asia,2005,24173.00
+Western Asia,2010,25404.00
+Western Asia,2015,25733.00
+Western Asia,2020,26678.00
+Europe,2005,38467.00
+Europe,2010,36752.00
+Europe,2015,38365.00
+Europe,2020,39541.00
+Oceania,2005,3142.00
+Oceania,2010,3556.00
+Oceania,2015,4101.00
+Oceania,2020,4455.00
+Australia and New Zealand,2005,2288.00
+Australia and New Zealand,2010,2364.00
+Australia and New Zealand,2015,2509.00
+Australia and New Zealand,2020,2656.00
+Afghanistan,2005,4319.00
+Afghanistan,2010,5279.00
+Afghanistan,2015,6199.00
+Afghanistan,2018,6545.00
+Afghanistan,2019,6778.00
+Albania,2005,238.00
+Albania,2010,225.00
+Albania,2015,188.00
+Albania,2021,159.00
+Algeria,2005,4362.00
+Algeria,2010,3312.00
+Algeria,2011,3363.00
+Algeria,2015,3925.00
+Algeria,2022,5051.00
+Andorra,2005,4.00
+Andorra,2010,4.00
+Andorra,2015,4.00
+Andorra,2021,4.00
+Angola,2010,4273.00
+Angola,2011,5027.00
+Angola,2015,5621.00
+Angola,2016,5259.00
+Angola,2018,4697.00
+Anguilla,2005,1.00
+Anguilla,2010,2.00
+Anguilla,2011,2.00
+Anguilla,2015,2.00
+Anguilla,2019,2.00
+Antigua and Barbuda,2010,11.00
+Antigua and Barbuda,2015,10.00
+Antigua and Barbuda,2018,10.00
+Antigua and Barbuda,2019,10.00
+Argentina,2005,4873.00
+Argentina,2010,4947.00
+Argentina,2015,4784.00
+Argentina,2020,4804.00
+Armenia,2005,125.00
+Armenia,2010,102.00
+Armenia,2015,145.00
+Armenia,2021,156.00
+Aruba,2005,10.00
+Aruba,2010,10.00
+Aruba,2012,9.00
+Aruba,2015,10.00
+Aruba,2016,9.00
+Australia,2005,1935.00
+Australia,2010,2015.00
+Australia,2015,2141.00
+Australia,2020,2269.00
+Austria,2005,363.00
+Austria,2010,328.00
+Austria,2015,328.00
+Austria,2020,344.00
+Azerbaijan,2005,568.00
+Azerbaijan,2010,482.00
+Azerbaijan,2015,551.00
+Azerbaijan,2021,646.00
+Bahamas,2005,37.00
+Bahamas,2006,36.00
+Bahamas,2010,34.00
+Bahamas,2013,32.00
+Bahamas,2015,33.00
+Bahamas,2019,30.00
+Bahrain,2005,83.00
+Bahrain,2006,90.00
+Bahrain,2015,108.00
+Bahrain,2019,116.00
+Bangladesh,2005,16219.00
+Bangladesh,2010,16987.00
+Bangladesh,2011,16965.00
+Bangladesh,2021,16965.00
+Barbados,2005,22.00
+Barbados,2010,23.00
+Barbados,2015,21.00
+Barbados,2021,19.00
+Belarus,2005,380.00
+Belarus,2010,358.00
+Belarus,2015,387.00
+Belarus,2021,445.00
+Belgium,2005,739.00
+Belgium,2010,732.00
+Belgium,2015,783.00
+Belgium,2020,824.00
+Belize,2005,50.00
+Belize,2010,53.00
+Belize,2015,52.00
+Belize,2021,47.00
+Belize,2022,45.00
+Benin,2005,1318.00
+Benin,2010,1788.00
+Benin,2015,2238.00
+Benin,2021,2280.00
+Bermuda,2005,5.00
+Bermuda,2006,5.00
+Bermuda,2010,4.00
+Bermuda,2015,4.00
+Bermuda,2020,4.00
+Bhutan,2005,99.00
+Bhutan,2010,110.00
+Bhutan,2015,99.00
+Bhutan,2018,92.00
+Bhutan,2021,80.00
+Bolivia (Plurin. State of),2005,1513.00
+Bolivia (Plurin. State of),2010,1444.00
+Bolivia (Plurin. State of),2015,1345.00
+Bolivia (Plurin. State of),2021,1394.00
+Bosnia and Herzegovina,2010,175.00
+Bosnia and Herzegovina,2015,163.00
+Bosnia and Herzegovina,2021,148.00
+Botswana,2005,329.00
+Botswana,2008,327.00
+Botswana,2009,331.00
+Botswana,2010,331.00
+Botswana,2015,345.00
+Botswana,2021,365.00
+Brazil,2005,18661.00
+Brazil,2009,17452.00
+Brazil,2010,16893.00
+Brazil,2015,16299.00
+Brazil,2020,15367.00
+British Virgin Islands,2005,3.00
+British Virgin Islands,2010,3.00
+British Virgin Islands,2015,3.00
+British Virgin Islands,2018,3.00
+British Virgin Islands,2021,3.00
+Brunei Darussalam,2005,46.00
+Brunei Darussalam,2010,44.00
+Brunei Darussalam,2015,40.00
+Brunei Darussalam,2020,40.00
+Bulgaria,2005,290.00
+Bulgaria,2010,260.00
+Bulgaria,2015,262.00
+Bulgaria,2020,248.00
+Burkina Faso,2005,1271.00
+Burkina Faso,2010,2048.00
+Burkina Faso,2015,2707.00
+Burkina Faso,2021,3290.00
+Burundi,2005,1037.00
+Burundi,2010,1850.00
+Burundi,2015,2072.00
+Burundi,2020,2302.00
+Cabo Verde,2005,83.00
+Cabo Verde,2010,71.00
+Cabo Verde,2015,66.00
+Cabo Verde,2019,63.00
+Cambodia,2005,2695.00
+Cambodia,2008,2341.00
+Cambodia,2010,2273.00
+Cambodia,2015,2012.00
+Cambodia,2021,2133.00
+Cameroon,2005,2978.00
+Cameroon,2010,3510.00
+Cameroon,2015,4370.00
+Cameroon,2021,4732.00
+Canada,2005,2321.00
+Canada,2010,2168.00
+Canada,2015,2304.00
+Canada,2020,2428.00
+Cayman Islands,2005,3.00
+Cayman Islands,2008,4.00
+Cayman Islands,2013,4.00
+Cayman Islands,2015,4.00
+Cayman Islands,2018,4.00
+Cayman Islands,2020,5.00
+Cayman Islands,2021,5.00
+Central African Republic,2005,412.00
+Central African Republic,2009,608.00
+Central African Republic,2010,637.00
+Central African Republic,2012,662.00
+Central African Republic,2017,1029.00
+Chad,2005,1262.00
+Chad,2010,1727.00
+Chad,2015,2270.00
+Chad,2021,2719.00
+Chile,2005,1721.00
+Chile,2010,1547.00
+Chile,2015,1478.00
+Chile,2020,1542.00
+China,2010,101019.00
+China,2015,95958.00
+China,2021,107730.00
+"China, Hong Kong SAR",2005,451.00
+"China, Hong Kong SAR",2010,349.00
+"China, Hong Kong SAR",2015,333.00
+"China, Hong Kong SAR",2021,368.00
+"China, Macao SAR",2005,37.00
+"China, Macao SAR",2010,25.00
+"China, Macao SAR",2015,24.00
+"China, Macao SAR",2021,35.00
+Colombia,2005,5298.00
+Colombia,2010,5085.00
+Colombia,2015,4479.00
+Colombia,2021,4192.00
+Comoros,2008,111.00
+Comoros,2014,120.00
+Comoros,2018,124.00
+Congo,2005,597.00
+Congo,2010,705.00
+Congo,2012,734.00
+Congo,2014,787.00
+Congo,2015,842.00
+Congo,2018,783.00
+Cook Islands,2005,2.00
+Cook Islands,2010,2.00
+Cook Islands,2015,2.00
+Cook Islands,2021,2.00
+Costa Rica,2005,542.00
+Costa Rica,2010,521.00
+Costa Rica,2015,473.00
+Costa Rica,2020,493.00
+Costa Rica,2021,458.00
+Côte dIvoire,2009,2383.00
+Côte dIvoire,2015,3371.00
+Côte dIvoire,2021,4103.00
+Côte dIvoire,2022,4253.00
+Croatia,2005,196.00
+Croatia,2010,167.00
+Croatia,2015,162.00
+Croatia,2020,157.00
+Cuba,2005,895.00
+Cuba,2010,853.00
+Cuba,2015,746.00
+Cuba,2021,756.00
+Curaçao,2010,19.00
+Curaçao,2013,21.00
+Curaçao,2015,18.00
+Curaçao,2020,13.00
+Curaçao,2021,16.00
+Cyprus,2005,61.00
+Cyprus,2010,55.00
+Cyprus,2015,54.00
+Cyprus,2020,59.00
+Czechia,2005,503.00
+Czechia,2010,463.00
+Czechia,2015,535.00
+Czechia,2020,572.00
+Dem. People's Rep. Korea,2009,1547.00
+Dem. People's Rep. Korea,2018,1508.00
+Dem. Rep. of the Congo,2010,10572.00
+Dem. Rep. of the Congo,2015,13763.00
+Dem. Rep. of the Congo,2020,18789.00
+Denmark,2005,414.00
+Denmark,2010,403.00
+Denmark,2015,469.00
+Denmark,2020,452.00
+Djibouti,2005,51.00
+Djibouti,2009,56.00
+Djibouti,2015,63.00
+Djibouti,2022,72.00
+Dominica,2005,9.00
+Dominica,2010,8.00
+Dominica,2015,8.00
+Dominica,2021,6.00
+Dominican Republic,2005,1290.00
+Dominican Republic,2010,1318.00
+Dominican Republic,2015,1307.00
+Dominican Republic,2021,1117.00
+Ecuador,2005,1998.00
+Ecuador,2010,2114.00
+Ecuador,2015,1998.00
+Ecuador,2021,1850.00
+Egypt,2005,9564.00
+Egypt,2010,10542.00
+Egypt,2014,11128.00
+Egypt,2019,13265.00
+El Salvador,2005,1045.00
+El Salvador,2010,940.00
+El Salvador,2014,777.00
+El Salvador,2015,741.00
+El Salvador,2021,603.00
+Equatorial Guinea,2005,76.00
+Equatorial Guinea,2010,85.00
+Equatorial Guinea,2015,93.00
+Equatorial Guinea,2019,118.00
+Eritrea,2005,378.00
+Eritrea,2010,286.00
+Eritrea,2015,362.00
+Eritrea,2019,347.00
+Estonia,2005,86.00
+Estonia,2010,73.00
+Estonia,2015,80.00
+Estonia,2020,90.00
+Eswatini,2005,222.00
+Eswatini,2010,241.00
+Eswatini,2015,241.00
+Eswatini,2016,239.00
+Eswatini,2019,236.00
+Ethiopia,2005,10020.00
+Ethiopia,2010,13635.00
+Ethiopia,2015,16198.00
+Ethiopia,2017,16845.00
+Ethiopia,2018,16998.00
+Ethiopia,2021,18447.00
+Fiji,2009,101.00
+Fiji,2015,109.00
+Fiji,2021,119.00
+Finland,2005,382.00
+Finland,2010,347.00
+Finland,2015,355.00
+Finland,2020,373.00
+France,2005,4015.00
+France,2010,4159.00
+France,2015,4256.00
+France,2020,4279.00
+Gabon,2011,318.00
+Gabon,2019,270.00
+Gambia,2005,205.00
+Gambia,2010,229.00
+Gambia,2015,294.00
+Gambia,2021,401.00
+Gambia,2022,414.00
+Georgia,2005,338.00
+Georgia,2008,311.00
+Georgia,2009,299.00
+Georgia,2010,289.00
+Georgia,2015,289.00
+Georgia,2021,336.00
+Germany,2005,3306.00
+Germany,2010,3068.00
+Germany,2015,2879.00
+Germany,2020,3015.00
+Ghana,2005,2930.00
+Ghana,2009,3659.00
+Ghana,2015,4342.00
+Ghana,2021,4730.00
+Gibraltar,2009,3.00
+Gibraltar,2021,3.00
+Greece,2005,650.00
+Greece,2010,643.00
+Greece,2015,644.00
+Greece,2020,626.00
+Grenada,2005,14.00
+Grenada,2010,14.00
+Grenada,2015,13.00
+Grenada,2018,13.00
+Guatemala,2005,2345.00
+Guatemala,2010,2653.00
+Guatemala,2015,2382.00
+Guatemala,2021,2397.00
+Guinea,2005,1207.00
+Guinea,2008,1364.00
+Guinea,2010,1453.00
+Guinea,2015,1649.00
+Guinea,2020,2108.00
+Guinea-Bissau,2005,252.00
+Guinea-Bissau,2010,279.00
+Guyana,2005,117.00
+Guyana,2010,99.00
+Guyana,2012,94.00
+Honduras,2005,1232.00
+Honduras,2010,1275.00
+Honduras,2012,1217.00
+Honduras,2015,1154.00
+Honduras,2021,1046.00
+Hungary,2005,431.00
+Hungary,2010,388.00
+Hungary,2015,396.00
+Hungary,2020,359.00
+Iceland,2005,31.00
+Iceland,2010,30.00
+Iceland,2015,30.00
+Iceland,2020,33.00
+India,2010,138414.00
+India,2015,127828.00
+India,2022,131348.00
+Indonesia,2005,29150.00
+Indonesia,2010,30342.00
+Indonesia,2015,29700.00
+Indonesia,2018,29426.00
+Indonesia,2020,25203.00
+Iran (Islamic Republic of),2005,6207.00
+Iran (Islamic Republic of),2010,5630.00
+Iran (Islamic Republic of),2014,7441.00
+Iran (Islamic Republic of),2015,7670.00
+Iran (Islamic Republic of),2020,8670.00
+Iraq,2007,4864.00
+Ireland,2005,454.00
+Ireland,2010,506.00
+Ireland,2015,545.00
+Ireland,2020,570.00
+Israel,2005,722.00
+Israel,2010,807.00
+Israel,2015,884.00
+Israel,2020,980.00
+Italy,2005,2771.00
+Italy,2010,2822.00
+Italy,2015,2856.00
+Italy,2020,2763.00
+Jamaica,2005,326.00
+Jamaica,2007,310.00
+Jamaica,2010,294.00
+Jamaica,2015,259.00
+Jamaica,2021,217.00
+Japan,2015,6638.00
+Japan,2020,6440.00
+Jordan,2005,805.00
+Jordan,2010,820.00
+Jordan,2014,980.00
+Jordan,2021,1112.00
+Kazakhstan,2005,1024.00
+Kazakhstan,2010,958.00
+Kazakhstan,2015,1196.00
+Kazakhstan,2020,1513.00
+Kenya,2005,6076.00
+Kenya,2009,7150.00
+Kenya,2015,8169.00
+Kenya,2016,8290.00
+Kenya,2019,6413.00
+Kiribati,2005,16.00
+Kiribati,2008,16.00
+Kiribati,2009,16.00
+Kiribati,2010,16.00
+Kiribati,2015,16.00
+Kiribati,2020,18.00
+Kuwait,2005,203.00
+Kuwait,2010,214.00
+Kuwait,2012,230.00
+Kuwait,2015,264.00
+Kuwait,2021,265.00
+Kyrgyzstan,2005,434.00
+Kyrgyzstan,2010,391.00
+Kyrgyzstan,2015,451.00
+Kyrgyzstan,2021,577.00
+Lao People's Dem. Rep.,2005,891.00
+Lao People's Dem. Rep.,2010,916.00
+Lao People's Dem. Rep.,2015,850.00
+Lao People's Dem. Rep.,2021,756.00
+Latvia,2005,84.00
+Latvia,2010,114.00
+Latvia,2015,117.00
+Latvia,2020,120.00
+Lebanon,2005,476.00
+Lebanon,2010,462.00
+Lebanon,2015,491.00
+Lebanon,2021,510.00
+Lesotho,2005,422.00
+Lesotho,2010,389.00
+Lesotho,2015,362.00
+Lesotho,2017,368.00
+Lesotho,2019,330.00
+Liberia,2009,605.00
+Liberia,2015,684.00
+Liberia,2020,608.00
+Libya,2005,714.00
+Libya,2006,755.00
+Liechtenstein,2005,2.00
+Liechtenstein,2010,2.00
+Liechtenstein,2015,2.00
+Liechtenstein,2021,2.00
+Lithuania,2005,158.00
+Lithuania,2010,122.00
+Lithuania,2015,108.00
+Lithuania,2020,119.00
+Luxembourg,2005,35.00
+Luxembourg,2010,35.00
+Luxembourg,2015,36.00
+Luxembourg,2020,40.00
+Madagascar,2005,3598.00
+Madagascar,2009,4324.00
+Madagascar,2010,4242.00
+Madagascar,2015,4764.00
+Madagascar,2019,4649.00
+Malawi,2005,2868.00
+Malawi,2010,3417.00
+Malawi,2015,4205.00
+Malawi,2022,4288.00
+Malaysia,2005,3202.00
+Malaysia,2010,3234.00
+Malaysia,2015,3108.00
+Malaysia,2021,3088.00
+Maldives,2005,58.00
+Maldives,2010,42.00
+Maldives,2015,42.00
+Maldives,2019,49.00
+Maldives,2020,51.00
+Mali,2005,1506.00
+Mali,2010,2019.00
+Mali,2015,2227.00
+Mali,2020,2734.00
+Malta,2005,30.00
+Malta,2010,25.00
+Malta,2015,25.00
+Malta,2020,27.00
+Marshall Islands,2005,8.00
+Marshall Islands,2009,8.00
+Marshall Islands,2015,8.00
+Marshall Islands,2021,6.00
+Mauritania,2005,444.00
+Mauritania,2010,531.00
+Mauritania,2015,633.00
+Mauritania,2020,654.00
+Mauritius,2005,124.00
+Mauritius,2010,117.00
+Mauritius,2015,102.00
+Mauritius,2021,83.00
+Mauritius,2022,84.00
+Mexico,2005,14700.00
+Mexico,2010,14906.00
+Mexico,2015,14398.00
+Mexico,2020,13903.00
+Micronesia (Fed. States of),2005,19.00
+Micronesia (Fed. States of),2007,19.00
+Micronesia (Fed. States of),2015,14.00
+Micronesia (Fed. States of),2021,13.00
+Monaco,2010,2.00
+Monaco,2015,2.00
+Monaco,2022,2.00
+Mongolia,2005,251.00
+Mongolia,2010,274.00
+Mongolia,2015,251.00
+Mongolia,2021,357.00
+Montenegro,2005,38.00
+Montenegro,2010,35.00
+Montenegro,2015,38.00
+Montenegro,2021,38.00
+Montserrat,2005,1.00
+Montserrat,2009,0.00
+Montserrat,2010,1.00
+Montserrat,2014,0.00
+Montserrat,2015,0.00
+Montserrat,2019,0.00
+Morocco,2005,4023.00
+Morocco,2010,3945.00
+Morocco,2012,4017.00
+Morocco,2015,4039.00
+Morocco,2021,4553.00
+Mozambique,2005,3943.00
+Mozambique,2010,5278.00
+Mozambique,2015,5902.00
+Mozambique,2020,7220.00
+Myanmar,2005,4948.00
+Myanmar,2010,5126.00
+Myanmar,2014,5177.00
+Myanmar,2018,5300.00
+Namibia,2005,404.00
+Namibia,2007,410.00
+Namibia,2010,407.00
+Namibia,2015,447.00
+Namibia,2021,536.00
+Nauru,2005,2.00
+Nauru,2007,1.00
+Nauru,2008,1.00
+Nauru,2014,2.00
+Nauru,2015,2.00
+Nauru,2019,2.00
+Nauru,2020,1.00
+Nepal,2005,4030.00
+Nepal,2010,4901.00
+Nepal,2015,4335.00
+Nepal,2022,3485.00
+Netherlands (Kingdom of the),2005,1278.00
+Netherlands (Kingdom of the),2010,1294.00
+Netherlands (Kingdom of the),2015,1208.00
+Netherlands (Kingdom of the),2020,1162.00
+New Zealand,2005,353.00
+New Zealand,2010,348.00
+New Zealand,2015,368.00
+New Zealand,2020,387.00
+Nicaragua,2005,945.00
+Nicaragua,2010,924.00
+Nicaragua,2015,854.00
+Nicaragua,2020,881.00
+Niger,2005,1064.00
+Niger,2010,1726.00
+Niger,2015,2445.00
+Niger,2017,2768.00
+Niger,2021,2806.00
+Nigeria,2005,22115.00
+Nigeria,2010,21558.00
+Nigeria,2015,25443.00
+Nigeria,2018,27889.00
+Nigeria,2019,28078.00
+Niue,2005,0.00
+Niue,2015,0.00
+Niue,2021,0.00
+North Macedonia,2005,110.00
+North Macedonia,2010,111.00
+North Macedonia,2015,109.00
+North Macedonia,2020,108.00
+Norway,2005,430.00
+Norway,2010,424.00
+Norway,2015,431.00
+Norway,2020,446.00
+Oman,2005,312.00
+Oman,2009,302.00
+Oman,2015,351.00
+Oman,2021,310.00
+Pakistan,2005,17258.00
+Pakistan,2010,18756.00
+Pakistan,2015,19847.00
+Pakistan,2019,23588.00
+Palau,2005,2.00
+Palau,2007,2.00
+Palau,2014,2.00
+Palau,2021,2.00
+Panama,2005,430.00
+Panama,2010,440.00
+Panama,2015,418.00
+Panama,2021,466.00
+Papua New Guinea,2005,532.00
+Papua New Guinea,2008,601.00
+Papua New Guinea,2012,1132.00
+Papua New Guinea,2018,1394.00
+Paraguay,2005,934.00
+Paraguay,2010,839.00
+Paraguay,2012,838.00
+Paraguay,2015,727.00
+Paraguay,2021,701.00
+Peru,2005,4077.00
+Peru,2010,3763.00
+Peru,2015,3513.00
+Peru,2021,3835.00
+Philippines,2005,13084.00
+Philippines,2009,13687.00
+Philippines,2015,14453.00
+Philippines,2021,12529.00
+Poland,2005,2724.00
+Poland,2010,2235.00
+Poland,2014,2153.00
+Poland,2020,1334.00
+Portugal,2005,753.00
+Portugal,2010,734.00
+Portugal,2015,657.00
+Portugal,2020,602.00
+Puerto Rico,2010,300.00
+Puerto Rico,2013,264.00
+Puerto Rico,2015,251.00
+Puerto Rico,2018,209.00
+Qatar,2005,70.00
+Qatar,2010,89.00
+Qatar,2015,130.00
+Qatar,2021,163.00
+Republic of Korea,2005,4032.00
+Republic of Korea,2010,3306.00
+Republic of Korea,2015,2722.00
+Republic of Korea,2020,2703.00
+Republic of Moldova,2005,184.00
+Republic of Moldova,2010,141.00
+Republic of Moldova,2015,139.00
+Republic of Moldova,2021,137.00
+Romania,2005,970.00
+Romania,2010,842.00
+Romania,2015,947.00
+Romania,2020,904.00
+Russian Federation,2005,5309.00
+Russian Federation,2009,5015.00
+Russian Federation,2015,5983.00
+Russian Federation,2019,7123.00
+Rwanda,2005,1858.00
+Rwanda,2010,2299.00
+Rwanda,2015,2451.00
+Rwanda,2021,2729.00
+Saint Kitts and Nevis,2005,6.00
+Saint Kitts and Nevis,2010,6.00
+Saint Kitts and Nevis,2015,5.00
+Saint Kitts and Nevis,2021,5.00
+Saint Lucia,2005,24.00
+Saint Lucia,2007,22.00
+Saint Lucia,2010,19.00
+Saint Lucia,2015,17.00
+Saint Lucia,2020,15.00
+Saint Vincent & Grenadines,2005,18.00
+Saint Vincent & Grenadines,2010,14.00
+Saint Vincent & Grenadines,2015,13.00
+Saint Vincent & Grenadines,2018,13.00
+Saint Vincent & Grenadines,2020,13.00
+Samoa,2005,31.00
+Samoa,2010,31.00
+Samoa,2015,32.00
+Samoa,2016,33.00
+Samoa,2021,35.00
+San Marino,2010,2.00
+San Marino,2012,2.00
+San Marino,2021,2.00
+Sao Tome and Principe,2005,30.00
+Sao Tome and Principe,2010,34.00
+Sao Tome and Principe,2015,36.00
+Sao Tome and Principe,2017,37.00
+Saudi Arabia,2005,3098.00
+Saudi Arabia,2009,3255.00
+Saudi Arabia,2010,3321.00
+Saudi Arabia,2015,3494.00
+Saudi Arabia,2021,3551.00
+Senegal,2005,1444.00
+Senegal,2008,1618.00
+Senegal,2010,1695.00
+Senegal,2014,1927.00
+Senegal,2015,1977.00
+Senegal,2021,2270.00
+Serbia,2005,325.00
+Serbia,2010,283.00
+Serbia,2015,279.00
+Serbia,2021,255.00
+Seychelles,2005,9.00
+Seychelles,2010,9.00
+Seychelles,2015,9.00
+Seychelles,2021,9.00
+Sierra Leone,2015,1360.00
+Sierra Leone,2017,1487.00
+Sierra Leone,2021,1964.00
+Singapore,2009,295.00
+Singapore,2010,264.00
+Singapore,2015,239.00
+Singapore,2020,233.00
+Sint Maarten (Dutch part),2014,4.00
+Slovakia,2005,242.00
+Slovakia,2010,212.00
+Slovakia,2015,216.00
+Slovakia,2020,233.00
+Slovenia,2005,93.00
+Slovenia,2010,107.00
+Slovenia,2015,116.00
+Slovenia,2020,134.00
+Solomon Islands,2005,75.00
+Solomon Islands,2010,95.00
+Solomon Islands,2012,98.00
+Solomon Islands,2015,104.00
+Solomon Islands,2019,107.00
+Somalia,2007,457.00
+Somalia,2021,250.00
+South Africa,2005,7314.00
+South Africa,2010,7024.00
+South Africa,2015,7556.00
+South Africa,2020,7716.00
+South Sudan,2015,1274.00
+Spain,2005,2485.00
+Spain,2010,2721.00
+Spain,2015,3010.00
+Spain,2020,3007.00
+Sri Lanka,2005,1611.00
+Sri Lanka,2010,1721.00
+Sri Lanka,2013,1767.00
+Sri Lanka,2015,1778.00
+Sri Lanka,2018,1725.00
+Sri Lanka,2020,1695.00
+State of Palestine,2005,387.00
+State of Palestine,2010,403.00
+State of Palestine,2015,450.00
+State of Palestine,2021,501.00
+Sudan,2005,3177.00
+Sudan,2010,4024.00
+Sudan,2015,4518.00
+Sudan,2018,5118.00
+Sudan [former],2005,3278.00
+Sudan [former],2009,4744.00
+Suriname,2005,66.00
+Suriname,2010,71.00
+Suriname,2015,72.00
+Suriname,2021,63.00
+Sweden,2005,658.00
+Sweden,2010,576.00
+Sweden,2015,792.00
+Sweden,2020,892.00
+Switzerland,2005,524.00
+Switzerland,2010,493.00
+Switzerland,2015,490.00
+Switzerland,2020,528.00
+Syrian Arab Republic,2005,2252.00
+Syrian Arab Republic,2010,2429.00
+Syrian Arab Republic,2013,1547.00
+Syrian Arab Republic,2022,2170.00
+Tajikistan,2005,693.00
+Tajikistan,2010,682.00
+Tajikistan,2013,665.00
+Tajikistan,2015,683.00
+Tajikistan,2017,771.00
+Thailand,2005,5975.00
+Thailand,2010,5147.00
+Thailand,2015,5081.00
+Thailand,2022,4725.00
+Timor-Leste,2005,178.00
+Timor-Leste,2010,230.00
+Timor-Leste,2015,244.00
+Timor-Leste,2020,203.00
+Togo,2005,997.00
+Togo,2007,1022.00
+Togo,2010,1287.00
+Togo,2011,1300.00
+Togo,2015,1498.00
+Togo,2021,1629.00
+Tokelau,2021,0.00
+Tonga,2005,17.00
+Tonga,2006,17.00
+Tonga,2010,17.00
+Tonga,2015,17.00
+Tonga,2020,17.00
+Trinidad and Tobago,2005,130.00
+Trinidad and Tobago,2009,131.00
+Trinidad and Tobago,2010,131.00
+Trinidad and Tobago,2021,130.00
+Tunisia,2005,1184.00
+Tunisia,2010,1030.00
+Tunisia,2011,1028.00
+Tunisia,2015,1115.00
+Tunisia,2016,1139.00
+Tunisia,2021,1304.00
+Türkiye,2005,6678.00
+Türkiye,2010,6635.00
+Türkiye,2015,5434.00
+Türkiye,2020,5280.00
+Turkmenistan,2020,589.00
+Turkmenistan,2021,609.00
+Turks and Caicos Islands,2005,2.00
+Turks and Caicos Islands,2009,3.00
+Turks and Caicos Islands,2015,3.00
+Turks and Caicos Islands,2021,3.00
+Tuvalu,2005,1.00
+Tuvalu,2006,1.00
+Tuvalu,2014,1.00
+Tuvalu,2015,1.00
+Tuvalu,2021,1.00
+Uganda,2005,7224.00
+Uganda,2008,7964.00
+Uganda,2010,8375.00
+Uganda,2015,8264.00
+Uganda,2017,8841.00
+Ukraine,2005,1946.00
+Ukraine,2010,1540.00
+Ukraine,2014,1685.00
+Ukraine,2015,1537.00
+Ukraine,2021,1722.00
+United Arab Emirates,2005,263.00
+United Arab Emirates,2007,284.00
+United Arab Emirates,2010,327.00
+United Arab Emirates,2015,461.00
+United Arab Emirates,2022,468.00
+United Kingdom,2005,4635.00
+United Kingdom,2010,4422.00
+United Kingdom,2015,4621.00
+United Kingdom,2020,4904.00
+United Rep. of Tanzania,2005,7541.00
+United Rep. of Tanzania,2010,8419.00
+United Rep. of Tanzania,2015,8298.00
+United Rep. of Tanzania,2021,11197.00
+United States of America,2015,24786.00
+United States of America,2020,24466.00
+Uruguay,2005,366.00
+Uruguay,2010,342.00
+Uruguay,2015,317.00
+Uruguay,2020,294.00
+Uzbekistan,2005,2383.00
+Uzbekistan,2010,1971.00
+Uzbekistan,2015,2135.00
+Uzbekistan,2019,2506.00
+Uzbekistan,2021,2504.00
+Vanuatu,2005,39.00
+Vanuatu,2010,42.00
+Vanuatu,2015,46.00
+Vanuatu,2021,57.00
+Venezuela (Boliv. Rep. of),2005,3449.00
+Venezuela (Boliv. Rep. of),2010,3458.00
+Venezuela (Boliv. Rep. of),2015,3476.00
+Venezuela (Boliv. Rep. of),2017,3285.00
+Viet Nam,2005,7773.00
+Viet Nam,2010,6923.00
+Viet Nam,2015,7544.00
+Viet Nam,2021,8885.00
+Yemen,2005,3220.00
+Yemen,2010,3427.00
+Yemen,2013,3875.00
+Yemen,2016,3900.00
+Zambia,2005,2573.00
+Zambia,2010,2899.00
+Zambia,2015,3216.00
+Zambia,2017,3285.00
+Zimbabwe,2013,2663.00
+Zimbabwe,2015,2658.00
+Zimbabwe,2021,2899.00
+LLDCs,2005,53483.00
+LLDCs,2010,64450.00
+LLDCs,2015,71528.00
+LLDCs,2020,78723.00
+LDC§,2005,106782.00
+LDC§,2010,130428.00
+LDC§,2015,146582.00
+LDC§,2020,164430.00
+SIDS,2005,6947.00
+SIDS,2010,7513.00
+SIDS,2015,8367.00
+SIDS,2020,8377.00
