@@ -5,3 +5,4 @@ matplotlib
 dash
 dash-bootstrap-components
 geopandas
+gunicorn
