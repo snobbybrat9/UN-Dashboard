@@ -332,7 +332,8 @@ def display_line_chart(selected_countries, selected_dataset):
         
     return fig
 
-
+# if __name__ == "__main__":
+#     app.run_server(debug=True)
 
 
 
