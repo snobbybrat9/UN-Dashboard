@@ -35,7 +35,7 @@ un_logo_path = r'assets/UN_logo.jpeg'
 
 # Select the bootstrap theme
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
-
+server = app.server
 
 # Callback to update the year dropdown options based on the selected dataset
 @app.callback(
@@ -332,8 +332,7 @@ def display_line_chart(selected_countries, selected_dataset):
         
     return fig
 
-if __name__ == "__main__":
-    app.run_server()
+
 
 
 
