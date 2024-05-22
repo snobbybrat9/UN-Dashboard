@@ -34,7 +34,7 @@ rcParams['lines.linewidth'] = 2
 un_logo_path = r'assets/UN_logo.jpeg'
 
 # Select the bootstrap theme
-app = dash.Dash(external_stylesheets=[dbc.themes.CYBORG])
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
 
 
 # Callback to update the year dropdown options based on the selected dataset
